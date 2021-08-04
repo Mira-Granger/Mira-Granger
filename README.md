@@ -5,8 +5,8 @@ Hi there 👋
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a food delivery web app using PERN stack and solving CP beginners questions
 - 👀 I’m interested in MERN/PERN stack and I'm starting to get into competitive coding
+- 🔭 I’m currently working on a food delivery web app using PERN stack and solving CP beginners questions
 - 🌱 I’m currently learning React and DSA for CP
 - 👯 I’m looking to collaborate to solve CP questions
 - 😄 Pronouns: She/Her
