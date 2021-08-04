@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @Mira-Granger
-👀 I’m interested in MERN/PERN stack and I'm starting to get into competitive coding
-🌱 I’m currently learning React and DSA for CP
-💞️ I’m looking to collaborate to solve CP questions
+-👋 Hi, I’m @Mira-Granger
+-👀 I’m interested in MERN/PERN stack and I'm starting to get into competitive coding
+-🌱 I’m currently learning React and DSA for CP
+-💞️ I’m looking to collaborate to solve CP questions
